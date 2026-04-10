@@ -15,9 +15,13 @@ With a strong foundation in SQL, Power BI, and Python, I focus on solving practi
 ## 💼 What I Bring
 
 ✔ Strong analytical thinking and problem-solving skills
+
 ✔ Ability to convert data into actionable business insights
+
 ✔ Experience working on end-to-end analytics projects
+
 ✔ Hands-on expertise in dashboarding and data storytelling
+
 ✔ Continuous learner focused on real-world impact
 
 
