@@ -2,7 +2,7 @@
 
 🚀 **Data Analyst | SQL • Power BI • Python | Turning Data into Business Decisions**
 
----
+
 
 ## 🎯 About Me
 
@@ -10,17 +10,19 @@ I am a data-driven problem solver with hands-on experience in analyzing real-wor
 
 With a strong foundation in SQL, Power BI, and Python, I focus on solving practical business problems such as customer churn, sales optimization, and operational efficiency.
 
----
+
 
 ## 💼 What I Bring
 
 ✔ Strong analytical thinking and problem-solving skills
+
 ✔ Ability to convert data into actionable business insights
+
 ✔ Experience working on end-to-end analytics projects
 ✔ Hands-on expertise in dashboarding and data storytelling
 ✔ Continuous learner focused on real-world impact
 
----
+
 
 ## 🛠️ Technical Skills
 
